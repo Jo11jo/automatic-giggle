@@ -1,2 +1,4 @@
 # automatic-giggle
-Demo repository for UCACCMET2J
+Or is it computer-generated?
+
+## Asking the real questions
